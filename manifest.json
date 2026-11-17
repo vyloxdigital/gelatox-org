@@ -1,0 +1,27 @@
+{
+  "name": "Gelatox \u2014 Skin, Hair & Nail Gummies",
+  "short_name": "Gelatox",
+  "description": "Gelatox is a biotin gummy for skin, hair and nails, two a day. Compare all three Gelatox packages, the six free bonuses and the 60-day refund terms.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fdf8f4",
+  "theme_color": "#2a0a12",
+  "categories": [
+    "health",
+    "beauty",
+    "shopping"
+  ],
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

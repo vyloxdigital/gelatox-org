@@ -1,0 +1,51 @@
+# Gelatox
+
+> A one-page buyer's guide to Gelatox, a skin, hair and nail gummy supplement sold as 60 gummies per jar and chewed two a day. Written for readers in the United States at https://gelatox-org.vercel.app/. Orders complete on the official checkout. Last reviewed 17 November 2026.
+
+Gelatox swaps the capsule for a gummy and the botanical blend for a run of B-vitamins, biotin foremost. The seller presents it as a 100% natural formula that accelerates cell renewal, reinforces the skin's moisture barrier and supplies antioxidants against free radicals. A serving is two gummies, taken roughly 30 minutes before a morning or afternoon meal with a full glass of water, so a 60-gummy jar runs 30 days. Six nutrients are named on the official listing — biotin, vitamin B12 as methylcobalamin, vitamin B6 as pyridoxine hydrochloride, folate, pantothenic acid as d-calcium pantothenate, and vitamin A — and not one of them carries a microgram, milligram or Daily Value figure; the Supplement Facts panel appears online only as an image, and no other ingredients or allergens are listed. Three packages are sold: two bottles at $79 each ($158 plus a postage charge the seller never names, about $2.63 a day before it), three bottles at $69 each ($207 posted free, about $2.30 a day) and six bottles at $49 each ($294 posted free, about $1.63 a day). Six digital guides, which the seller values at $358 together, attach to the three and six bottle orders. Every order carries a 60-day Results or Refund Guarantee. Charged once, with nothing recurring. Sold to adults 18 and over.
+
+## Page sections
+
+- [Gelatox in brief](https://gelatox-org.vercel.app/#start): what it is, what it targets, and the three facts that frame everything after.
+- [The promises Gelatox makes](https://gelatox-org.vercel.app/#promise): the maker's three stated effects, and the NIH finding on biotin that belongs beside them.
+- [Every nutrient Gelatox names](https://gelatox-org.vercel.app/#named): a four-column table of the six nutrients, their stated forms, their role, and an empty quantity column.
+- [What Gelatox leaves off the page](https://gelatox-org.vercel.app/#missing): no quantity is attached to any nutrient, and the three checks that removes.
+- [Taking Gelatox day to day](https://gelatox-org.vercel.app/#dose): the serving, the timing the label specifies, and the ceiling the seller sets.
+- [Gelatox from day one to day 180](https://gelatox-org.vercel.app/#rail): four stages across six months, and why the refund window shuts before the assessment window opens.
+- [Six guides that come free with Gelatox](https://gelatox-org.vercel.app/#extras): the six guides as a numbered list with the seller's own valuations, and how to read the $358 figure.
+- [Gelatox packages compared line by line](https://gelatox-org.vercel.app/#matrix): a matrix of every variable across the three orders, from supply and postage to bonuses and daily cost.
+- [The true daily cost of Gelatox](https://gelatox-org.vercel.app/#maths): the division behind $2.63, $2.30 and $1.63, and where the steps up the range actually pay.
+- [If Gelatox does not work out](https://gelatox-org.vercel.app/#refund): the 60-day Results or Refund wording, and the two details it leaves open.
+- [How a Gelatox order reaches you](https://gelatox-org.vercel.app/#post): the payment, postage and access terms, and the blanks in the contact details.
+- [Gelatox photographed](https://gelatox-org.vercel.app/#shots): the maker's own images of the jar, the printing and the gummies.
+- [Who stands behind Gelatox](https://gelatox-org.vercel.app/#origin): the two phrases the seller uses on manufacturing, and the three industry claims it never makes.
+- [Health checks before Gelatox](https://gelatox-org.vercel.app/#checks): biotin and lab assays, vitamin A in pregnancy, auditing what you already take, and when to seek a diagnosis.
+- [Is Gelatox a match for you?](https://gelatox-org.vercel.app/#match): four questions that settle it faster than any sales page.
+- [Habits that work alongside Gelatox](https://gelatox-org.vercel.app/#routine): sun protection, gentle washing, fluids, protein and sleep — the free interventions with the evidence behind them.
+- [Gelatox, question by question](https://gelatox-org.vercel.app/#answers): ten questions on the product, its nutrients, the missing doses, timing, price, bonuses, renewals, refunds, timeframe and stockists.
+- [The Gelatox label, word by word](https://gelatox-org.vercel.app/#lexicon): biotin, methylcobalamin, pyridoxine hydrochloride, d-calcium pantothenate, folate, Daily Value and the Supplement Facts panel.
+- [How this Gelatox page was researched](https://gelatox-org.vercel.app/#method): the source of every figure, what is flagged rather than smoothed over, and the affiliate relationship.
+
+## Ordering
+
+- [Order Gelatox on the official checkout](https://wellnesspro360.com/order/Gelatox): six bottles at $49 each, $294 posted free with all six guides, about $1.63 a day; three bottles at $69 each, $207 posted free with all six guides, about $2.30 a day; two bottles at $79 each, $158 plus a postage charge the seller never names and no guides, about $2.63 a day before it. Charged once per order, nothing recurring, with a 60-day Results or Refund Guarantee across all three. Figures taken from the official order page on 17 November 2026.
+
+## Sources cited on this page
+
+- [NIH Office of Dietary Supplements: biotin](https://ods.od.nih.gov/factsheets/biotin-consumer/): states there is little scientific evidence that biotin supplements improve hair, skin or nails, and warns that high intakes can cause false results in some laboratory tests including thyroid hormone testing.
+- [NIH Office of Dietary Supplements: vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-Consumer/): recommended intakes and upper limits for vitamin A, relevant because no amount is published for this product.
+- [NIH Office of Dietary Supplements: what you need to know](https://ods.od.nih.gov/factsheets/WYNTK-Consumer/): a plain-language primer on what dietary supplements are and how they are regulated.
+- [MedlinePlus: skin, hair and nails](https://medlineplus.gov/skinhairandnails.html): consumer background on hair loss, nail disease and skin conditions, and when to seek a diagnosis.
+- [NIH News in Health: keep your skin healthy](https://newsinhealth.nih.gov/2015/11/keep-your-skin-healthy): washing, moisturising and sun-protection basics from the National Institutes of Health.
+- [FDA: dietary supplements](https://www.fda.gov/food/dietary-supplements): supplements fall under food law rather than medicines law in the United States, with no pre-market approval.
+- [FTC: health claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims): the advertising rules a supplement health claim has to meet.
+
+## Optional
+
+- [Gelatox sitemap](https://gelatox-org.vercel.app/sitemap.xml): the canonical URL and its images.
+- [Gelatox robots.txt](https://gelatox-org.vercel.app/robots.txt): crawling permissions, which allow all major search and AI crawlers.
+- [Gelatox agent-readable description](https://gelatox-org.vercel.app/.well-known/ard.json): structured nutrient, label-gap, biotin-evidence, bonus, package, guarantee and FAQ records in ARD 0.91 format.
+
+## Disclosure
+
+- [Affiliate and medical disclosure](https://gelatox-org.vercel.app/#method): a commission may be paid when an order begins from a link here, with no effect on the checkout price. This page is not a review and carries no rating, score or testimonials. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Nothing here is medical advice. Tell any clinic taking your blood that you take a biotin supplement, as it can affect some test results.
